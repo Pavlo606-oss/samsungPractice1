@@ -80,6 +80,9 @@ fun main(){
         kni.win()}
     if (hel2>0){println("В этом нелёгком противостоянии победил маг!")
         mag.win()}
+    fun ggg(){
+
+    }
 
 }
 
