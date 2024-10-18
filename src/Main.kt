@@ -82,7 +82,7 @@ fun main(){
         mag.win()}
     fun ggg() {
 
-    }
+        print(" ")}
 
 }
 
